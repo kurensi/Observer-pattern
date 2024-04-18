@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GskgMPM3sXprnB/W80g9mTPjqVyM3jNJeFo6pV8if+kJqnjFTojc7IJ5WTR++vElPbtene9Amp5CNUWU+4n7fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dejan\\OneDrive\\benedict\\Patter\\Muster 2 Observer_Muster\\Observer_Muster\\Observer_Muster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dejan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dejan\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dejan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dejan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

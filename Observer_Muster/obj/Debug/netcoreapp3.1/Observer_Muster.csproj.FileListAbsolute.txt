@@ -1,0 +1,25 @@
+C:\Users\Djordje\source\repos\Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.csprojAssemblyReference.cache
+C:\Users\Djordje\source\repos\Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.AssemblyInfoInputs.cache
+C:\Users\Djordje\source\repos\Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.AssemblyInfo.cs
+C:\Users\Djordje\source\repos\Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.exe
+C:\Users\Djordje\source\repos\Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.deps.json
+C:\Users\Djordje\source\repos\Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.runtimeconfig.json
+C:\Users\Djordje\source\repos\Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.runtimeconfig.dev.json
+C:\Users\Djordje\source\repos\Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.dll
+C:\Users\Djordje\source\repos\Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.pdb
+C:\Users\Djordje\source\repos\Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.dll
+C:\Users\Djordje\source\repos\Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.exe
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.deps.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.runtimeconfig.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.runtimeconfig.dev.json
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\bin\Debug\netcoreapp3.1\Observer_Muster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.AssemblyInfoInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.AssemblyInfo.cs
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.csproj.CoreCompileInputs.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.dll
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.pdb
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.genruntimeconfig.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.csproj.AssemblyReference.cache
+C:\Users\aster\OneDrive\OneDrive\Achilles\C# Projects\Muster 2 Observer_Muster\Observer_Muster\obj\Debug\netcoreapp3.1\Observer_Muster.GeneratedMSBuildEditorConfig.editorconfig
